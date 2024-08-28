@@ -2,6 +2,10 @@
 #define HITTABLE_H
 
 
+
+// class for creating a list than can ray interact with.
+
+
 #include "ray.h"
 
 
