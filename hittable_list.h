@@ -4,10 +4,11 @@
 #include "hittable.h"
 
 
-#include<memory>
+#include<memory> // for std::make_shared
 #include<vector>
 
 
+// retain shared ownership of object through pointer
 using std::make_shared;
 using std::shared_ptr;
 
