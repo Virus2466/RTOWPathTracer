@@ -6,7 +6,7 @@
 // class for creating a list than can ray interact with.
 
 
-#include "ray.h"
+#include "rtweekend.h"
 
 
 class hit_record {

@@ -2,15 +2,12 @@
 #define HITTABLE_LIST
 
 #include "hittable.h"
+#include "rtweekend.h"
 
-
-#include<memory> // for std::make_shared
 #include<vector>
 
 
 // retain shared ownership of object through pointer
-using std::make_shared;
-using std::shared_ptr;
 
 
 class hittable_list : public hittable {

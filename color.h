@@ -3,7 +3,7 @@
 
 
 #include "vec3.h"
-#include <iostream>
+#include "rtweekend.h"
 
 // sames as point3 we are using vec3 as an color for simpler understanding
 using color = vec3;

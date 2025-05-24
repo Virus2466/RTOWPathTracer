@@ -4,6 +4,7 @@
 
 
 #include "vec3.h"
+#include "rtweekend.h"
 
 class ray {
 public:
